@@ -29,17 +29,21 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
 
 <div align="center">
   <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals">
-    <h3 style="display:inline;">🎬 Plateforme de Streaming</h3>
+    <h3>🎬</h3>
+    Plateforme de Streaming
   </a>
   
   <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe">
-    <h3 style="display:inline;">🔎 Quizz de Géographie</h3>
+    <h3>🔎</h3>
+    Quizz de Géographie
   </a>
   
   <a href="https://github.com/antoinefouga/e-com">
-    <h3 style="display:inline;">📊 Site de E-commerce</h3>
+    <h3>📊</h3>
+    Site de E-commerce
   </a>
 </div>
+
 
 ### Détails des projets :
 - **Youflim** : Application de streaming full stack **Langages**  HTML , CSS ,JAVASCRIPT, REACT, Node.js, MYSQL
