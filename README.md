@@ -41,5 +41,5 @@ Je suis toujours ouvert à discuter d'idées passionnantes et à collaborer sur 
 
 📫 **Contactez-moi ici :**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/antoine-fouga/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](antoinefouga@orange.fr)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](antoine.fouga1@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/antoinefouga)  
