@@ -28,23 +28,23 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
 ## 🚀 Mes Projets
 
 <div align="center">
-  <a href="[https://github.com/antoinefouga/ecommerce-app](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals)">
-    <img src="![cap](https://github.com/user-attachments/assets/4907cefc-1cee-4638-b0a1-afd932809cab)
-" alt="Plateforme de streaming" width="300"/>
+  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals">
+    <h3>Plateforme de Streaming <i class="fas fa-tv"></i></h3>
   </a>
-  <a href="[https://github.com/antoinefouga/blog-platform](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe)">
-    <img src="![geo](https://github.com/user-attachments/assets/6bfb9b19-bb0d-4283-a8d2-e53da0dbad9c)
-" alt="Quizz de géographie" width="300"/>
+  
+  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe">
+    <h3>Quizz de Géographie <i class="fas fa-globe-europe"></i></h3>
   </a>
-  <a href="[https://github.com/antoinefouga/task-manager](https://github.com/antoinefouga/e-com/tree/dev)">
-    <img src="[https://path-to-your-image.com/task-manager-screenshot.jpg](https://images.pexels.com/photos/23319707/pexels-photo-23319707/free-photo-of-noir-et-blanc-publicite-nature-morte-vapoter.jpeg?auto=compress&cs=tinysrgb&w=600)" alt=Site de e-commerce" width="300"/>
+  
+  <a href="https://github.com/antoinefouga/e-com">
+    <h3>Site de E-commerce <i class="fas fa-shopping-cart"></i></h3>
   </a>
 </div>
 
 ### Détails des projets :
+- **Youflim** : Application de streaming full stack **Langages**  HTML , CSS ,JAVASCRIPT, REACT, Node.js, MYSQL
+- **Géo Quizz** : Quizz de géographie mélé à une enquête policière à l’aidé de l’API REST COUNTRIES. **Langages** : HTML, CSS, JAVASCRIPT, REACT
 - **E-commerce** : Une application de commerce en ligne pour cigarette éléctroniques développée avec la pile **MERN** (MongoDB, Express, React, Node.js).
-- **Géo Quizz** : Quizz de géographie mélé à une enquête policière à l’aidé de l’API REST COUNTRIES. **Langages** : HTML , CSS ,JAVASCRIPT, REACT
-- **Youflim** : Application de streaming full stack **Langages**  HTML , CSS ,JAVASCRIPT, REACT, Node.js, MYSQ
 
 ## 🤝 Restons en Contact !
 Je suis toujours ouvert à discuter d'idées passionnantes et à collaborer sur des projets innovants. Que vous soyez développeur ou porteur de projet, n'hésitez pas à me contacter !
