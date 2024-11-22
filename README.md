@@ -40,6 +40,5 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
 Je suis toujours ouvert à discuter d'idées passionnantes et à collaborer sur des projets innovants. Que vous soyez développeur ou porteur de projet, n'hésitez pas à me contacter !
 
 📫 **Contactez-moi ici :**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/antoine-fouga/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](antoine.fouga1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/antoine-fouga/)   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/antoinefouga)  
