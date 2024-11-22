@@ -29,15 +29,15 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
 
 <div align="center">
   <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals">
-    <h3>Plateforme de Streaming <i class="fas fa-tv"></i></h3>
+    <h3>Plateforme de Streaming ![Badge Streaming](https://img.shields.io/badge/-Streaming-blue?logo=netflix&logoColor=white)</h3>
   </a>
   
   <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe">
-    <h3>Quizz de Géographie <i class="fas fa-globe-europe"></i></h3>
+    <h3>Quizz de Géographie ![Badge Quizz](https://img.shields.io/badge/-Geography-orange?logo=globe&logoColor=white)</h3>
   </a>
   
   <a href="https://github.com/antoinefouga/e-com">
-    <h3>Site de E-commerce <i class="fas fa-shopping-cart"></i></h3>
+    <h3>Site de E-commerce ![Badge E-commerce](https://img.shields.io/badge/-E-commerce-green?logo=shopping-cart&logoColor=white)</h3>
   </a>
 </div>
 
