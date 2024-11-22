@@ -38,8 +38,8 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
     Quizz de Géographie
   </a>
   
+  <h3>📊</h3>
   <a href="https://github.com/antoinefouga/e-com">
-    <h3>📊</h3>
     Site de E-commerce
   </a>
 </div>
