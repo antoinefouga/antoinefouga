@@ -28,12 +28,13 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
 ## 🚀 Mes Projets
 
 <div align="center">
-  [![Plateforme de Streaming](https://img.shields.io/badge/-Plateforme%20de%20Streaming-blue?logo=netflix)](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals)
+  [![Plateforme de Streaming](https://img.shields.io/badge/-Plateforme%20de%20Streaming-blue?logo=netflix&logoColor=white)](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals)
   
   [![Quizz de Géographie](https://img.shields.io/badge/-Quizz%20de%20G%C3%A9ographie-orange?logo=globe&logoColor=white)](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe)
   
   [![Site de E-commerce](https://img.shields.io/badge/-Site%20de%20E--commerce-green?logo=shopping-cart&logoColor=white)](https://github.com/antoinefouga/e-com)
 </div>
+
 
 ### Détails des projets :
 - **Youflim** : Application de streaming full stack **Langages**  HTML , CSS ,JAVASCRIPT, REACT, Node.js, MYSQL
