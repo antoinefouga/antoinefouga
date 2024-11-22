@@ -28,47 +28,12 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
 ## 🚀 Mes Projets
 
 <div align="center">
-  <h3>🎬</h3>
-  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals" class="project-link">
-    Plateforme de Streaming
-  </a>
+  [![Plateforme de Streaming](https://img.shields.io/badge/-Plateforme%20de%20Streaming-blue?logo=netflix)](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals)
   
-  <h3>🔎</h3>
-  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe" class="project-link">
-    Quizz de Géographie
-  </a>
+  [![Quizz de Géographie](https://img.shields.io/badge/-Quizz%20de%20G%C3%A9ographie-orange?logo=globe&logoColor=white)](https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe)
   
-  <h3>📊</h3>
-  <a href="https://github.com/antoinefouga/e-com" class="project-link">
-    Site de E-commerce
-  </a>
+  [![Site de E-commerce](https://img.shields.io/badge/-Site%20de%20E--commerce-green?logo=shopping-cart&logoColor=white)](https://github.com/antoinefouga/e-com)
 </div>
-
-<style>
-  .project-link {
-    text-decoration: none;
-    color: #333;
-    font-size: 20px;
-    font-weight: 500;
-    transition: color 0.3s ease, transform 0.3s ease;
-  }
-
-  .project-link:hover {
-    color: #0077ff;
-    transform: translateY(-3px);
-  }
-
-  h3 {
-    display: inline-block;
-    margin-right: 10px;
-    font-size: 24px;
-  }
-
-  div {
-    margin-bottom: 20px;
-  }
-</style>
-
 
 ### Détails des projets :
 - **Youflim** : Application de streaming full stack **Langages**  HTML , CSS ,JAVASCRIPT, REACT, Node.js, MYSQL
