@@ -28,21 +28,46 @@ Je suis actuellement à la recherche d'une alternance à partir d'octobre 2024 p
 ## 🚀 Mes Projets
 
 <div align="center">
-  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals">
-    <h3>🎬</h3>
+  <h3>🎬</h3>
+  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P3-Original-Digitals" class="project-link">
     Plateforme de Streaming
   </a>
   
-  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe">
-    <h3>🔎</h3>
+  <h3>🔎</h3>
+  <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CodeOfWar-P2-ReplitAfterMe" class="project-link">
     Quizz de Géographie
   </a>
   
   <h3>📊</h3>
-  <a href="https://github.com/antoinefouga/e-com">
+  <a href="https://github.com/antoinefouga/e-com" class="project-link">
     Site de E-commerce
   </a>
 </div>
+
+<style>
+  .project-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 20px;
+    font-weight: 500;
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+
+  .project-link:hover {
+    color: #0077ff;
+    transform: translateY(-3px);
+  }
+
+  h3 {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 24px;
+  }
+
+  div {
+    margin-bottom: 20px;
+  }
+</style>
 
 
 ### Détails des projets :
